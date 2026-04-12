@@ -1,0 +1,7 @@
+/target
+*.exe
+*.dll
+*.pdb
+.DS_Store
+*.swp
+*.swo
